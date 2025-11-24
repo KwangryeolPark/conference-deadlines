@@ -50,6 +50,10 @@ python app.py
 
 * Data is fetched from GitHub on the first run and subsequently saved to `conferences_data.json`.
 
+# Runtime Screen
+<img src="./figures/example 1.png"></img>
+<img src="./figures/example 2.png"></img>
+
 # ⚠️ Note
 * If no data appears on the screen, you may have reached the GitHub API Rate Limit. Please configure a token or try again in about an hour.
 
